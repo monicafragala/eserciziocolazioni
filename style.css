@@ -1,0 +1,42 @@
+img{
+    max-width: 30%;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+body{
+    margin: 0%;
+    background-color: white;
+}
+
+
+.left {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    font-size: 50px;
+    background-color: #fff56f;
+    border-radius: 40px;
+    
+}
+
+.left p {
+    padding: 3%;
+}
+
+h3 {
+
+    font-size: 60px;
+}
+main{
+    width: 90%;
+    margin: auto;
+}
+
+.grazie {
+    text-align: center;
+}
